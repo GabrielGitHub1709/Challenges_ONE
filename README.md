@@ -36,9 +36,34 @@ Importación de datos e inicio del análisis
   Se generan las listas con los 5 productos mas vendidos y los 5 productos menos vendos de las 4 tiendas.
 
   Se genera la función **imprime_top()** para estructurar el reporte del top 5 de los productos mas y menos vwendidos por tienda.
-
+  
   Se genera el reporte del Top 5 de productos mas y menos vendidos por tienda.
 
   # 5. Envío promedio por tienda
 
   Se genera el **Reporte Del Promedio Del Costo Por Envío Por Tienda**.
+
+  ## Construido con 🛠️
+
+* [Git y GitHub](https://git-scm.com/book/es/v2) - El control de versiones para gestionar los cambios realizados en un proyecto a lo largo del tiempo.
+* [Google Colab](https://colab.research.google.com/) -Colab, también conocido como "Colaboratory", te permite programar y ejecutar Python en tu navegador.
+* [Trello](https://trello.com/es) - Tablero para mantener las tareas organizadas y avance del proyecto.
+* [Visaul Code](https://code.visualstudio.com/) - Herramienta de desarrollo.
+
+## Versionamiento 📌
+
+Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira el [Proyecto en este repositorio](https://github.com/GabrielGitHub1709/amigo-secreto).
+
+## Participante ✒️
+
+* **Gabriel Gutierrez** - *Participante G-8 One* - [GabrielGitHub1709](https://github.com/GabrielGitHub1709)
+
+## Patrocinadores
+ ✒️
+* **Equipo Oracle Next Education
+* **Alura Latam
+  
+![Oracle-Alura](https://github.com/user-attachments/assets/cd6e40db-8288-41c4-9d26-6703fc004d6a)
+
+
+
