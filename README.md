@@ -1,6 +1,8 @@
 # Challenges_ONE
 Primer desafío de  Python para la ciencia de datos consiste en ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento.
 
+Se obtienen 5 analisis y 3 graficos solicitados que a continuación se describen a partir de la información proporcionada:
+
 Importación de datos e inicio del análisis
 
 # 1. Análisis de facturación
