@@ -17,7 +17,7 @@ Importación de datos e inicio del análisis
 
   Se genera la grafica de los **Ingresos Por Tienda en Miles de Millones**
 
-  
+  ![Ingresos_Por_Tienda_en_MM](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Ingresos_Por_Tienda_en_MM.PNG)
 
 # 2. Ventas por categoría
 
@@ -25,17 +25,23 @@ Importación de datos e inicio del análisis
 
   Se obtienen las ventas por categorías de productos en las 4 tiendas.
   
-  Se genera el reporte de las ventas por categoria de las 4 tiendas ordenados por categoria del producto.
+  Se genera el reporte de las **Ventas por Categorías por tiendas** ordenado por categoria del producto.
+
+  ![Reporte_Ventas_por_Categorias](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Reporte_Ventas_por_Categorias.PNG)
 
   Se crea la función **Ventasxcategorias()** para obtener las **etiquetas** y las **ventas** por categiría de productos por tienda.
 
- Se genera la gráfica para una mejor visualización de la información de las ventas por **categorías por tiendas**.
+ Se genera la gráfica para una mejor visualización de la información de las **Ventas por Categorías por tiendas**.
+
+ ![Grafica_Venta_por_Categorias](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Grafica_Venta_por_Categorias.PNG)
 
   # 3. Calificación promedio de la tienda
 
   Se calcula la **Calificación Promedio** de cada tienda.
 
   Se genera el reporte de la **Calificación promedio por tienda**
+
+  ![Reporte_Calificacion_Promedio](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Reporte_Calificacion_Promedio.PNG)
 
   Se obtiene que la **tienda 3** tiene el mejor promedio de calificación.
 
@@ -49,11 +55,17 @@ Importación de datos e inicio del análisis
   
   Se genera el **Reporte del Top 5 de productos mas y menos vendidos por tienda**
 
+  ![Reporte_Top_5](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Reporte_Top_5.PNG)
+
   # 5. Envío promedio por tienda
 
-  Se genera el **Reporte Del Promedio Del Costo Por Envío Por Tienda**.
+  Se genera el **Reporte Del Promedio Del Costo Por Envío Por Tienda**
+
+  ![Reporte_Promedio_Envio](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Reporte_Promedio_Envio.PNG)
 
   Se genera la gráfica de la información del **Promedio del Costo de Envio por Tienda**
+
+  ![Grafica_Promedio_Envio](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/8eb6613e5176003a1460c9d831f063f54558abe2/Reportes_y_Graficas/Grafica_Promedio_Envio.PNG)
 
   # Conclusión
 
