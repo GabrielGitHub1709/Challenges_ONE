@@ -91,7 +91,9 @@ Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para t
  ✒️
 * **Equipo Oracle Next Education
 * **Alura Latam
-  
+
+![OracleEducation](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/060840d2dd4b39d339f3b23adeeee9cea9100d12/Reportes_y_Graficas/OracleEducation.PNG)
+
 ![Oracle-Alura](https://github.com/user-attachments/assets/cd6e40db-8288-41c4-9d26-6703fc004d6a)
 
 
