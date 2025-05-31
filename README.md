@@ -11,6 +11,8 @@ Importación de datos e inicio del análisis
   
   Se genera el reporte de los **Ingresos Netos Por Tienda**.
   
+ ![Ingresos Netos](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/554e6af376ec718413fd8605bf150ac257d29c83/Reportes_y_Graficas/Reporte_Ingresos_Netos.PNG)
+  
   Se comparan los **Ingreso netos** de las 4 tiendas y se determina que la tienda con menores **Ingresos netos** es la tienda **4**.
 
 # 2. Ventas por categoría
