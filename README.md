@@ -11,7 +11,13 @@ Importación de datos e inicio del análisis
   
   Se genera el reporte de los **Ingresos Netos Por Tienda**.
   
+ ![Ingresos Netos](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/554e6af376ec718413fd8605bf150ac257d29c83/Reportes_y_Graficas/Reporte_Ingresos_Netos.PNG)
+  
   Se comparan los **Ingreso netos** de las 4 tiendas y se determina que la tienda con menores **Ingresos netos** es la tienda **4**.
+
+  Se genera la grafica de los **Ingresos Por Tienda en Miles de Millones**
+
+  
 
 # 2. Ventas por categoría
 
@@ -29,6 +35,8 @@ Importación de datos e inicio del análisis
 
   Se calcula la **Calificación Promedio** de cada tienda.
 
+  Se genera el reporte de la **Calificación promedio por tienda**
+
   Se obtiene que la **tienda 3** tiene el mejor promedio de calificación.
 
   # 4. Productos más y menos vendidos
@@ -39,11 +47,18 @@ Importación de datos e inicio del análisis
 
   Se genera la función **imprime_top()** para estructurar el reporte del top 5 de los productos mas y menos vwendidos por tienda.
   
-  Se genera el reporte del Top 5 de productos mas y menos vendidos por tienda.
+  Se genera el **Reporte del Top 5 de productos mas y menos vendidos por tienda**
 
   # 5. Envío promedio por tienda
 
   Se genera el **Reporte Del Promedio Del Costo Por Envío Por Tienda**.
+
+  Se genera la gráfica de la información del **Promedio del Costo de Envio por Tienda**
+
+  # Conclusión
+
+  El análisis de la facturación de las cuatro tiendas nos muestra que la **tienda 1** tiene el mayor **Ingreso Neto**, el **Promedio del Costo de Envio por Tienda** más alto y la **Calificación Promedio por Tienda** más baja, **la tienda 4** tiene el menor **Ingreso Neto**, el **Promedio del Costo de Envio por Tienda** más bajo y la segunda **Calificación Promedio por Tienda** más baja, las **Tiendas 2, 3** se mantienen en una media entre las otras dos tiendas. Derivado de los puntos anteriores las **tienda 3 y 4** tienen una mejor ubicación.
+En recomendación al señor Juan se le pediría esperar uno o dos periodos de tiempo más para verificar bien las tendencias y asi tomar una mejor decisión.
 
   ## Construido con 🛠️
 
@@ -54,7 +69,7 @@ Importación de datos e inicio del análisis
 
 ## Versionamiento 📌
 
-Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira el [Proyecto en este repositorio](https://github.com/GabrielGitHub1709/amigo-secreto).
+Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira el [Proyecto en este repositorio](https://github.com/GabrielGitHub1709/Challenges_ONE).
 
 ## Participante ✒️
 
